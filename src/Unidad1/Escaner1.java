@@ -1,15 +1,15 @@
-package Unidad1;
+package unidad1;
 
 import java.util.Scanner;
 
-public class Ejercicio3 {
+public class Escaner1 {
     public static void main(String[] args) throws Exception {
         
         Scanner leer = new Scanner(System.in);
         byte[] edades = new byte[5];
 
         // Pedir las edades
-        for (int i = 0; i < edades.length; i++) {3
+        for (int i = 0; i < edades.length; i++) {
             System.out.println("Ingrese la edad de la persona " + (i + 1) + " : ");
             edades[i] = leer.nextByte();
         }
@@ -23,3 +23,4 @@ public class Ejercicio3 {
         leer.close();
     }
 }
+
