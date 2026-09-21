@@ -1,6 +1,6 @@
 package bases;
 
-public class Prueba3 {
+public class Bases3 {
     public static void main(String[] args) {
      
 //CARA FELIZ
