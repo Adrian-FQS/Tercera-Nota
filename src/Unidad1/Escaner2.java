@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Operadores2 {
+public class Escaner2 {
     public static void main(String[] args) {
 
       //pide 2 nuemro y hag 5 operadores aricmennticos
