@@ -28,7 +28,7 @@ public class Bases6 {
         char inicial = 'A';
         System.out.println(inicial);
 
-     }
+    }
 
     @Override
     public String toString() {
