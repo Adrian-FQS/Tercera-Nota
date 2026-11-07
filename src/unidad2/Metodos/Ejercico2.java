@@ -8,7 +8,7 @@ public class Ejercicio2-5 {
         // Edades en un evento
 
         Scanner sc = new Scanner(System.in);
-
+100708
         int n = leerCantidad(sc);
         int[] edades = new int[n];
 
